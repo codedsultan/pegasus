@@ -25,7 +25,7 @@ class AttendanceController extends Controller
     }
 
     /**
-     * Display a listing of the resource.
+     * Display a listing of the resources.
      */
     public function attendanceDashboard()
     {
